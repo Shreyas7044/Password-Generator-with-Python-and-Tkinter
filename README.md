@@ -57,7 +57,7 @@ Your secure password will be displayed.
 ---
 
 ## 🖼 Application Screenshot
-![Application Screenshot](Python-3d-video-matplotlib/screenshot.png)
+![Application Screenshot](Password-Generator-with-Python-and-Tkinter/screenshot.png)
 
 ---
 
